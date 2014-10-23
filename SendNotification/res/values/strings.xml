@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Send Notification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="btnTest">Test</string>
+	<string name="btnActivate">Activate</string>
+	<string name="lblHost">Ip Host:</string>
+	<string name="txtHostHint">0.0.0.0</string>
+</resources>
